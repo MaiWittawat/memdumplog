@@ -1,4 +1,4 @@
-package main
+package memdumplog
 
 type Driver string
 

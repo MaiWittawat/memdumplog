@@ -1,4 +1,4 @@
-# memdump-log
+# memdumplog
 
 `memdump-log` is an **in-memory log collector** for Go applications.
 
@@ -114,3 +114,6 @@ router.GET("/logs/raw", func(c *gin.Context) {
 	)
 })
 ```
+
+License
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.

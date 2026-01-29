@@ -10,7 +10,7 @@ programmatically**, typically to expose them via an HTTP API or admin UI.
 
 ## Installation
 ```powershell
-go get github.com/your-org/memdump-log
+go get github.com/MaiWittawat/memdumplog
 ```
 
 ## Why memdump-log?
